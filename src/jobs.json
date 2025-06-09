@@ -83,6 +83,34 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "2789",
+      "title": "Ima Frank",
+      "type": "Remote",
+      "location": "Anim ea repellendus",
+      "description": "Eaque ex dolorum con",
+      "salary": "$100K - $125K",
+      "company": {
+        "name": "Haley Strong Traders",
+        "description": "Sit dolor ut dolore ",
+        "contactEmail": "cecokunapu@mailinator.com",
+        "contactPhone": "+1 (382) 972-9046"
+      }
+    },
+    {
+      "id": "f6a4",
+      "title": "Kessie Willis",
+      "type": "Internship",
+      "location": "Ut est magni molesti",
+      "description": "Dicta magni dignissi",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Price Sparks Plc",
+        "description": "Maxime sunt corrupt",
+        "contactEmail": "wovawope@mailinator.com",
+        "contactPhone": "+1 (425) 257-3476"
+      }
     }
   ]
 }
