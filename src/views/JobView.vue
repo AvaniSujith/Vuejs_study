@@ -93,7 +93,7 @@ onMounted(async () => {
             </div>
           </main>
 
-          <!-- Sidebar -->
+        
           <aside>
             <!-- Company Info -->
             <div class="bg-white p-6 rounded-lg shadow-md">
