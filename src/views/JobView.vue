@@ -75,6 +75,7 @@ onMounted(async () => {
                   class="pi pi-map-marker text-lg text-orange-700 mr-2"
                 ></i>
                 <p class="text-orange-700">{{  state.job.location }}</p>
+                <p>{{  state.isLoading }}</p>
               </div>
             </div>
 
