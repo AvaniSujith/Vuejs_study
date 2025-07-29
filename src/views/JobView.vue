@@ -137,8 +137,6 @@ onMounted(async () => {
       </div>
     </section>
 
-    <!-- Show loading spinner while true  -->
-
     <div v-else class="text-center text-gray-500 py-6">
         <PulseLoader />
     </div>
