@@ -140,6 +140,8 @@ onMounted(async () => {
     <div v-else class="text-center text-gray-500 py-6">
         <PulseLoader />
     </div>
+    <empty-state />
+    </div>
 
 
 </div>
